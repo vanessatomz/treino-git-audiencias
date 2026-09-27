@@ -1,4 +1,5 @@
 AGENDA DE AUDIENCIAS 
-Processo 001 - Status: Agendada 
+Processo 001 - Status: Confirmada 
 Processo 002 - Status: Concluso para despacho
-Processo 003 - Status: Agendada
+Processo 003 - Status: Confirmada
+
